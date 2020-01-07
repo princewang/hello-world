@@ -1,2 +1,2 @@
 # hello-world
-practice\and used to test
+practice\and used for test
